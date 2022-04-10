@@ -5,7 +5,7 @@ We are very sorry that because our four herons' genome used two prefixes in the 
 
 Nycticorax nycticorax NCBI genome-JAKFQP000000000: https://github.com/hrluo93/Night-Heron-genome.git
 
-Gorsachius magnificus To be released
+Gorsachius magnificus NCBI genome-JALHKT000000000
 
 Egretta eulophotes To be released 
 
